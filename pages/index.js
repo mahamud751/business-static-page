@@ -524,6 +524,147 @@ const home = () => {
                 </div>
               </div>
             </div>
+            <div
+              className="col-xl-4 col-lg-6 col-md-6 col-sm-6 col-item-3 wow fadeInUp animated"
+              data-wow-duration="1500ms"
+              data-wow-delay="200ms"
+            >
+              <div className="service_single">
+                <div className="service_left_icon">
+                  <span>
+                    <svg width={22} viewBox="0 0 38.102 39">
+                      <path
+                        className="st2"
+                        fill="none"
+                        stroke="#00142D"
+                        strokeWidth={3}
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeMiterlimit={10}
+                        d="M4.914,23.322l-2.457,2.827C1.84,26.859,1.5,27.768,1.5,28.709v5.6c0,1.763,1.429,3.191,3.192,3.191h28.718   c1.764,0,3.192-1.429,3.192-3.191v-5.6c0-0.941-0.34-1.85-0.957-2.56l-2.457-2.827"
+                      />
+                      <polyline
+                        className="st2"
+                        fill="none"
+                        stroke="#00142D"
+                        strokeWidth={3}
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeMiterlimit={10}
+                        points="   9.721,14.896 19.051,24.227 28.381,14.896  "
+                      />
+                      <line
+                        className="st2"
+                        fill="none"
+                        stroke="#00142D"
+                        strokeWidth={3}
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeMiterlimit={10}
+                        x1="19.051"
+                        y1="1.5"
+                        x2="19.051"
+                        y2="23.756"
+                      />
+                    </svg>
+                  </span>
+                </div>
+                <div className="service_right_content">
+                  <h5>
+                    <a href="service-details.html">ONLINE COURSES</a>
+                  </h5>
+                  <p>
+                    Building the software using specific tools and technology by
+                    our development team.
+                  </p>
+                  <a href="#service">
+                    View More
+                    <i className="arrow_right" />
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div
+              className="col-xl-4 col-lg-6 col-md-6 col-sm-6 col-item-3 wow fadeInUp animated"
+              data-wow-duration="1500ms"
+              data-wow-delay="400ms"
+            >
+              <div className="service_single">
+                <div className="service_left_icon">
+                  <span>
+                    <svg width={23} viewBox="0 0 41 36.368">
+                      <circle
+                        className="st2"
+                        fill="none"
+                        stroke="#00142D"
+                        strokeWidth={3}
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeMiterlimit={10}
+                        cx="26.806"
+                        cy="16.523"
+                        r="7.269"
+                      />
+                      <path
+                        className="st2"
+                        fill="none"
+                        stroke="#00142D"
+                        strokeWidth={3}
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeMiterlimit={10}
+                        d="M39.5,34.868L39.5,34.868c0-6.117-4.959-11.075-11.075-11.075h-3.463c-6.117,0-11.076,4.958-11.076,11.075"
+                      />
+                      <circle
+                        className="st2"
+                        fill="none"
+                        stroke="#00142D"
+                        strokeWidth={3}
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeMiterlimit={10}
+                        cx="11.443"
+                        cy="7.094"
+                        r="5.594"
+                      />
+                      <path
+                        className="st2"
+                        fill="none"
+                        stroke="#00142D"
+                        strokeWidth={3}
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeMiterlimit={10}
+                        d="M12.688,12.688h-2.665c-4.707,0-8.523,3.816-8.523,8.523"
+                      />
+                      <path
+                        className="st2"
+                        fill="none"
+                        stroke="#00142D"
+                        strokeWidth={3}
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeMiterlimit={10}
+                        d="M9.086,12.688h2.665c2.59,0,4.911,1.156,6.474,2.98"
+                      />
+                    </svg>
+                  </span>
+                </div>
+                <div className="service_right_content">
+                  <h5>
+                    <a href="service-details.html">DIGITAL MARKETING</a>
+                  </h5>
+                  <p>
+                    Building the software using specific tools and technology by
+                    our development team.
+                  </p>
+                  <a href="#service">
+                    View More
+                    <i className="arrow_right" />
+                  </a>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
