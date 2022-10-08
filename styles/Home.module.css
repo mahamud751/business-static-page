@@ -107,11 +107,18 @@
   height: 1em;
   margin-left: 0.5rem;
 }
-
+@media (min-width: 600px) {
+  .faq {
+    width: 600px;
+  }
+}
 @media (max-width: 600px) {
   .grid {
     width: 100%;
     flex-direction: column;
+  }
+  .faq {
+    width: 400px;
   }
 }
 
